@@ -1,0 +1,14 @@
+C:/flutterapps/fluttertest/build/windows/x64/runner/Debug/data/icudtl.dat
+C:/flutterapps/fluttertest/build/windows/x64/runner/Debug/flutter_windows.dll
+C:/flutterapps/fluttertest/build/windows/x64/runner/Debug/flutter_tts_plugin.dll
+C:/flutterapps/fluttertest/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/flutterapps/fluttertest/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/flutterapps/fluttertest/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+C:/flutterapps/fluttertest/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/flutterapps/fluttertest/build/windows/x64/runner/Debug/data/flutter_assets/images/01.jpg
+C:/flutterapps/fluttertest/build/windows/x64/runner/Debug/data/flutter_assets/images/1.jpg
+C:/flutterapps/fluttertest/build/windows/x64/runner/Debug/data/flutter_assets/images/login.png
+C:/flutterapps/fluttertest/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/flutterapps/fluttertest/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/flutterapps/fluttertest/build/windows/x64/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/flutterapps/fluttertest/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

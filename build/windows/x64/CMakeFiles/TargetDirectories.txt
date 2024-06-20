@@ -1,0 +1,13 @@
+C:/flutterapps/fluttertest/build/windows/x64/CMakeFiles/INSTALL.dir
+C:/flutterapps/fluttertest/build/windows/x64/CMakeFiles/ALL_BUILD.dir
+C:/flutterapps/fluttertest/build/windows/x64/CMakeFiles/ZERO_CHECK.dir
+C:/flutterapps/fluttertest/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/flutterapps/fluttertest/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/flutterapps/fluttertest/build/windows/x64/flutter/CMakeFiles/flutter_assemble.dir
+C:/flutterapps/fluttertest/build/windows/x64/flutter/CMakeFiles/INSTALL.dir
+C:/flutterapps/fluttertest/build/windows/x64/runner/CMakeFiles/fluttertest.dir
+C:/flutterapps/fluttertest/build/windows/x64/runner/CMakeFiles/INSTALL.dir
+C:/flutterapps/fluttertest/build/windows/x64/runner/CMakeFiles/ALL_BUILD.dir
+C:/flutterapps/fluttertest/build/windows/x64/plugins/flutter_tts/CMakeFiles/flutter_tts_plugin.dir
+C:/flutterapps/fluttertest/build/windows/x64/plugins/flutter_tts/CMakeFiles/INSTALL.dir
+C:/flutterapps/fluttertest/build/windows/x64/plugins/flutter_tts/CMakeFiles/ALL_BUILD.dir

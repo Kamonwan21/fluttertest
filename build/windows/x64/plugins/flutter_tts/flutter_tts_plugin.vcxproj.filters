@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\flutterapps\fluttertest\windows\flutter\ephemeral\.plugin_symlinks\flutter_tts\windows\flutter_tts_plugin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\flutterapps\fluttertest\windows\flutter\ephemeral\.plugin_symlinks\flutter_tts\windows\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{23D92865-E95B-3086-A83B-615ACBF5DE04}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
